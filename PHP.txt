@@ -1,1 +1,3 @@
 PHP là ngôn ngữ phổ biến nhất trong lập trình web
+Đây là code PHP của new member
+Cùng học PHP để trở thành web developer nào !
